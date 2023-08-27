@@ -1,11 +1,11 @@
 body {
   margin: 15px;
   font-size: 0.9rem;
-  color: #505050;
+  color: black;
 }
 
-.nav {
-  background-color: #f0f0f0;
+nav {
+  background-color: gray;
   margin-top: 15px;
   margin-bottom: 15px;
   padding: 5px;
@@ -19,32 +19,32 @@ span {
   padding: 10px;
 }
 
-.h1 {
+h1 {
   font-size: 2.5rem;
-  color: #aaa;
+  color: brown;
 }
 
-.h2 {
+h2 {
   font-size: 1.5rem;
-  color: #bbf;
+  color: black;
   margin-top: 15px;
   margin-bottom: 10px;
 }
 
-.aside {
-  background-color: azure;
+aside {
+  background-color: rgb(38, 173, 173);
   border-style: solid;
   max-width: 150px;
   padding: 5px;
   margin-left: 15px;
 }
 
-.article {
+article {
   max-width: 400px;
 }
 
-.footer {
-  background-color: #f0f0f0;
+footer {
+  background-color: gray;
   margin-top: 15px;
   margin-bottom: 15px;
   padding: 5px;
